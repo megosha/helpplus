@@ -55,3 +55,19 @@
 /*    background-size: cover;*/
 /*    opacity: 0.1;*/
 /*}*/
+
+@media (max-width: 800px){
+    h1 {
+        font-size: 40px !important;
+    }
+}
+
+@media (max-width: 550px){
+    h1 {
+        font-size: 24px !important;
+    }
+        h2 {
+        font-size: 20px !important;
+    }
+
+}
